@@ -11,7 +11,7 @@ import java.util.Comparator;
 
 /**
  *
- * @author rakesh
+ * @author sathaiah balaji
  */
 public class q3 {
  public static void main(String[] args) {
