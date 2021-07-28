@@ -8,7 +8,7 @@ package labNO7;
 import java.util.*; 
 /**
  *
- * @author rakesh
+ * @author sathaiah balaji
  */
 public class Q1 {
   
