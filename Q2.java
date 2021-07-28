@@ -10,7 +10,7 @@ import java.util.Comparator;
 import java.util.Scanner;
 /**
  *
- * @author rakesh
+ * @author sathaiah balaji
  */
 public class Q2{
     
